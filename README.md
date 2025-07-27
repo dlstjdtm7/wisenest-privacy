@@ -25,7 +25,7 @@ This repository contains the privacy policy for the WiseNest streaming guide mob
 ### 4. Get Your URL
 Your privacy policy will be available at:
 ```
-https://[your-username].github.io/wisenest-privacy
+https://dlstjdtm7.github.io/wisenest-privacy
 ```
 
 ## App Store Connect Setup
